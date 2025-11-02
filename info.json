@@ -1,11 +1,12 @@
 {
-  "name": "YAIM0425-i5MOD02-armors-with-immunity",
+  "name": "YAIM0425-d16b-electricity-without-pollution",
   "version": "0.0.1",
-  "title": "YAIM0425 i5MOD02 Armors with immunity",
-  "author": "YAIM904",
+  "title": "YAIM0425 d16b Electricity without pollution",
+  "author": "YAIM0425",
   "factorio_version": "2.0",
-  "description": "Create one armor that makes you immune to each damage and another one immune to everything. [[I accept suggestions]]",
+  "description": "Eliminates pollution emanation for all entities using electricity. [[I accept suggestions]]",
+  "homepage": "https://github.com/yaim0425/YAIM0425-d16b-electricity-without-pollution",
   "dependencies": [
-    "YAIM0425-i5MOD50-core"
+    "YAIM0425-d00b-core"
   ]
 }
